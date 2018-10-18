@@ -1,5 +1,5 @@
 package initializationlab1;
 
 public enum Color {
-    GREEN, BLUE, RED, YELLOW, PURPLE;
+    GREEN, BLUE, RED, YELLOW, PURPLE
 }

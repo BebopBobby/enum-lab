@@ -17,5 +17,9 @@ public class initializationLab2 {
         bluh.add(apple, 1);
 
         System.out.println(bluh.colorfulThings.size());
+
+        bluh.remove(Color.PURPLE);
+
+        System.out.println(bluh.colorfulThings.size());
     }
 }
